@@ -6,7 +6,7 @@ echo Change customgamepath below in the code to your directory.
 echo.
 
 :: If you don't want to put in your directory everytime you want to run, paste your SteamVR directory here after the equals sign
-SET customgamepath=Q:\Games\SteamLibrary\steamapps\common\SteamVRh
+SET customgamepath=
 
 SET /P_addonname= Please enter your addon name: 
 SET addonpath=content\steamtours_addons\
